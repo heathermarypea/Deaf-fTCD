@@ -1,4 +1,4 @@
-% % function dopOSCCItest
+% % Analysis for deaf and hearing groups - fTCD animation description
 
 clc;
 % clear all;
