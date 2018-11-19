@@ -1,0 +1,8 @@
+In this folder are MATLAB files for the analysis of fTCD blood flow 
+data. 
+
+From matlab run > deaf_hearing_shared_analysis.m
+
+Note: This is the analysis code only. You will need to direct it towards 
+.exp files and check that the same settings apply to your recorded fTCD 
+data (e.g. columns with trigger codes, manual epoch screening, etc). 
